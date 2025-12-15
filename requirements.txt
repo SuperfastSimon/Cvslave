@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+weasyprint
+openai
+jinja2
